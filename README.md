@@ -38,4 +38,5 @@ Traffic Flow Color Guide:
            and CloudTrail
 
 Network Diagram:
-Network Architecture Diagram(Brainboard).png
+<img width="1362" height="698" alt="Network Architecture Diagram(Brainboard)" src="https://github.com/user-attachments/assets/bad6ba95-ddbb-4bc6-8688-4cbeb205a37e" />
+
