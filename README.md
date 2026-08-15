@@ -36,3 +36,6 @@ Traffic Flow Color Guide:
 🔵 Blue  — Outbound EC2 traffic via NAT Gateway
 ⚫ Grey  — Monitoring connections to CloudWatch 
            and CloudTrail
+
+Network Diagram:
+Network Architecture Diagram(Brainboard).png
